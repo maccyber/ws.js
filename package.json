@@ -5,15 +5,15 @@
     "engines": { "node": ">=0.4.0" },
     "author": "Yaron Naveh (yaronn01@gmail.com, http://webservices20.blogspot.com/)",
     "dependencies": {
-        "bufferjs": ">= 1.0.2",
-        "formidable": "=1.0.9",
-        "request": ">=2.9.100",
-        "xmldom": "=0.1.7",
-        "dateformat": ">=1.0.2-1.2.3",
-        "xml-crypto": ">=0.0.4"
+        "bufferjs": "^3.0.1",
+        "formidable": "^1.0.9",
+        "request": "^2.9.100",
+        "xmldom": "^0.1.7",
+        "dateformat": "^2.0.0",
+        "xml-crypto": "^0.8.4"
      },
      "devDependencies": {
-        "nodeunit": ">=0.6.4"
+        "nodeunit": "^0.10.2"
      },
     "repository" : {
         "type":"git",
