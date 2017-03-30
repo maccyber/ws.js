@@ -10,7 +10,8 @@
         "request": ">=2.9.100",
         "xmldom": ">=0.1.7",
         "dateformat": ">=1.0.2-1.2.3",
-        "xml-crypto": ">=0.0.4"
+        "xml-crypto": ">=0.0.4",
+        "base64-regex": "^2.0.0"
      },
      "devDependencies": {
         "nodeunit": ">=0.6.4"
